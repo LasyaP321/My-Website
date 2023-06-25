@@ -1,0 +1,149 @@
+body
+{
+    text-align: center;
+    margin-right: 50px;
+    margin-left: 50px;
+    background: linear-gradient(#36d1dc 0%,#ffc371 100%);
+}
+h1
+{
+    color: rgb(255, 0, 128);
+}
+img
+{
+    height: 500px;
+    width: 600px;
+}
+#MyVideos
+{
+    background-color: skyblue;
+}
+#MyArticles
+{
+    background-color: darkturquoise;
+}
+.parallax-inner
+{
+    display: table-cell;
+    vertical-align: middle;
+    margin-top: 200px;
+    padding-top: 100px;
+}
+.line
+{
+    height: 5px;
+    background-color: fuchsia;
+}
+.menu
+{
+    list-style: none;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+}
+.links
+{
+    float: left;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    font-family: 'Redressed', cursive;
+    font-size: 30px;
+}
+#MyBooks img
+{
+    height: 300px;
+    width: 250px;
+}
+#MyBooks
+{
+    background-color: deepskyblue;
+    font-size: 20px;
+    color: aliceblue;
+}
+a
+{
+    text-decoration: none;
+}
+#MyContact
+{
+    background-color: mediumturquoise;
+}
+#MyPlaces
+{
+    background-color: midnightblue;
+}
+#MyApps
+{
+    background-color: darkblue;
+}
+#MyGames
+{
+    background-color: deepskyblue;
+}
+#MyChatBots
+{
+    background-color: skyblue;
+}
+.Title
+{
+    color: rgb(255, 0, 128);
+    font-family: sans-serif;
+}
+#FavoriteDesserts
+{
+    color: dodgerblue;
+    font-family: 'Lucida Handwriting', cursive;
+    font-size: 20px;
+}
+#About
+{
+    color: hotpink;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 20px;
+}
+#page-header
+{
+    padding-bottom: 9px;
+    margin: 40px 0 20px;
+    border-bottom: 1px solid #eee;
+}
+.travel_mainDiv
+{
+    border: 1px solid deepskyblue;
+}
+.travel_mainDiv img
+{
+    width: 100%;
+}
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i
+{
+    float: right;
+}
+.movie_text span
+{
+    color: plum;
+}
+.title
+{
+    color: lavenderblush;
+}
+.Movie
+{
+    color: lavender;
+}
+.book
+{
+    height: 1,000px;
+    width: 250px;
+}
